@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello World! conflict main");
+		System.out.println("Hello World! nice one main");
 	}
 }
